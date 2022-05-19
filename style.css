@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 980px;
+    background: linear-gradient(to bottom, red,rgb(242, 241, 241),black) no-repeat center / cover;
+}
+.card{
+    width: 1220px;
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+    color: rgb(0, 252, 67);
+    padding-top: 70px;
+    font-size: 100px;
+    text-transform: uppercase;
+    font-family: cursive;
+    font-style: italic;
+}
+p{
+    color: #ffffff;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 25px;
+    font-family: cursive;
+}
